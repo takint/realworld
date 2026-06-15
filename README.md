@@ -1,10 +1,12 @@
-<br/>
+<br/><br/>
 
 ![RealWorld Example Applications](assets/media/realworld-dual-mode.svg)
 
 <p align="center">
   <img src="assets/media/frameworks.svg" alt="Frontend and Backend Frameworks" width="720"/>
 </p>
+
+<br/>
 
 ### See how [_the exact same_ Medium.com clone](https://demo.realworld.show) is built using different [frontends](https://codebase.show/projects/realworld?category=frontend) and [backends](https://codebase.show/projects/realworld?category=backend)
 
